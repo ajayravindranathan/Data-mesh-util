@@ -310,7 +310,7 @@ If you go now to to **Tables** under **Databases** and the **Data  Catalog ,** y
 
 Once that is done , we have products ready on the producer side that can be shared with the central/Hash account
 
-21. Go to the mash account .
+21. Go to the mesh account .
 
 On the mesh account, navigate to the folder `/environment/Data-mesh-util/test/reinvent` on the command line
 
